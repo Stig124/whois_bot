@@ -1,0 +1,6 @@
+[whois_bot]
+client_id=<Client ID>
+client_secret=<Client Secret>
+redirect_uri=<Redirect URI>
+refresh_token=<Refresh Token, see docs for more info>
+user_agent=WhoisBOT, send prettified versions of WHOIS Data by u/Stig124s, hosted by <Reddit username with u/>
